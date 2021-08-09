@@ -8,7 +8,7 @@ Step 1: Load/open the desire(xyz).ome file in fiji
 
 (note :assuming the file is in 8-bit grayscale format, If not change the image type to 8-bit )
 
-Step 2:Load/open the Macro script 
+Step 2:Load/open the 3d_segmenatation_Macro script 
 Select the desire image , and than Run the macro script as show below.
 
 <img width="711" alt="img2" src="https://user-images.githubusercontent.com/41202212/128720429-2f22198b-cbb8-44d8-b990-fb7893054661.PNG">
